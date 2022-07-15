@@ -1,0 +1,12 @@
+C:\Users\lugan\OneDrive\Área de Trabalho\IncomeTax_Domain\bin\Debug\net6.0\IncomeTax_Domain.deps.json
+C:\Users\lugan\OneDrive\Área de Trabalho\IncomeTax_Domain\bin\Debug\net6.0\IncomeTax_Domain.dll
+C:\Users\lugan\OneDrive\Área de Trabalho\IncomeTax_Domain\bin\Debug\net6.0\IncomeTax_Domain.pdb
+C:\Users\lugan\OneDrive\Área de Trabalho\IncomeTax_Domain\obj\Debug\net6.0\IncomeTax_Domain.csproj.AssemblyReference.cache
+C:\Users\lugan\OneDrive\Área de Trabalho\IncomeTax_Domain\obj\Debug\net6.0\IncomeTax_Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lugan\OneDrive\Área de Trabalho\IncomeTax_Domain\obj\Debug\net6.0\IncomeTax_Domain.AssemblyInfoInputs.cache
+C:\Users\lugan\OneDrive\Área de Trabalho\IncomeTax_Domain\obj\Debug\net6.0\IncomeTax_Domain.AssemblyInfo.cs
+C:\Users\lugan\OneDrive\Área de Trabalho\IncomeTax_Domain\obj\Debug\net6.0\IncomeTax_Domain.csproj.CoreCompileInputs.cache
+C:\Users\lugan\OneDrive\Área de Trabalho\IncomeTax_Domain\obj\Debug\net6.0\IncomeTax_Domain.dll
+C:\Users\lugan\OneDrive\Área de Trabalho\IncomeTax_Domain\obj\Debug\net6.0\refint\IncomeTax_Domain.dll
+C:\Users\lugan\OneDrive\Área de Trabalho\IncomeTax_Domain\obj\Debug\net6.0\IncomeTax_Domain.pdb
+C:\Users\lugan\OneDrive\Área de Trabalho\IncomeTax_Domain\obj\Debug\net6.0\ref\IncomeTax_Domain.dll

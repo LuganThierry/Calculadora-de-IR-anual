@@ -1,0 +1,248 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\lugan\\OneDrive\\Área de Trabalho\\Calculadora de IR anual\\IncomeTax_Calculator.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\lugan\\OneDrive\\Área de Trabalho\\Calculadora de IR anual\\IncomeTax_Calculator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lugan\\OneDrive\\Área de Trabalho\\Calculadora de IR anual\\IncomeTax_Calculator.csproj",
+        "projectName": "IncomeTax_Calculator",
+        "projectPath": "C:\\Users\\lugan\\OneDrive\\Área de Trabalho\\Calculadora de IR anual\\IncomeTax_Calculator.csproj",
+        "packagesPath": "C:\\Users\\lugan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lugan\\OneDrive\\Área de Trabalho\\Calculadora de IR anual\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lugan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\lugan\\OneDrive\\Área de Trabalho\\IncomeTax_Domain\\IncomeTax_Domain.csproj": {
+                "projectPath": "C:\\Users\\lugan\\OneDrive\\Área de Trabalho\\IncomeTax_Domain\\IncomeTax_Domain.csproj"
+              },
+              "C:\\Users\\lugan\\OneDrive\\Área de Trabalho\\IncomeTax_Presentation\\IncomeTax_Presentation.csproj": {
+                "projectPath": "C:\\Users\\lugan\\OneDrive\\Área de Trabalho\\IncomeTax_Presentation\\IncomeTax_Presentation.csproj"
+              },
+              "C:\\Users\\lugan\\OneDrive\\Área de Trabalho\\IncomeTax_Services\\IncomeTax_Services.csproj": {
+                "projectPath": "C:\\Users\\lugan\\OneDrive\\Área de Trabalho\\IncomeTax_Services\\IncomeTax_Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\lugan\\OneDrive\\Área de Trabalho\\IncomeTax_Domain\\IncomeTax_Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lugan\\OneDrive\\Área de Trabalho\\IncomeTax_Domain\\IncomeTax_Domain.csproj",
+        "projectName": "IncomeTax_Domain",
+        "projectPath": "C:\\Users\\lugan\\OneDrive\\Área de Trabalho\\IncomeTax_Domain\\IncomeTax_Domain.csproj",
+        "packagesPath": "C:\\Users\\lugan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lugan\\OneDrive\\Área de Trabalho\\IncomeTax_Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lugan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\lugan\\OneDrive\\Área de Trabalho\\IncomeTax_Presentation\\IncomeTax_Presentation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lugan\\OneDrive\\Área de Trabalho\\IncomeTax_Presentation\\IncomeTax_Presentation.csproj",
+        "projectName": "IncomeTax_Presentation",
+        "projectPath": "C:\\Users\\lugan\\OneDrive\\Área de Trabalho\\IncomeTax_Presentation\\IncomeTax_Presentation.csproj",
+        "packagesPath": "C:\\Users\\lugan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lugan\\OneDrive\\Área de Trabalho\\IncomeTax_Presentation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lugan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\lugan\\OneDrive\\Área de Trabalho\\IncomeTax_Services\\IncomeTax_Services.csproj": {
+                "projectPath": "C:\\Users\\lugan\\OneDrive\\Área de Trabalho\\IncomeTax_Services\\IncomeTax_Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\lugan\\OneDrive\\Área de Trabalho\\IncomeTax_Services\\IncomeTax_Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lugan\\OneDrive\\Área de Trabalho\\IncomeTax_Services\\IncomeTax_Services.csproj",
+        "projectName": "IncomeTax_Services",
+        "projectPath": "C:\\Users\\lugan\\OneDrive\\Área de Trabalho\\IncomeTax_Services\\IncomeTax_Services.csproj",
+        "packagesPath": "C:\\Users\\lugan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lugan\\OneDrive\\Área de Trabalho\\IncomeTax_Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lugan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\lugan\\OneDrive\\Área de Trabalho\\IncomeTax_Domain\\IncomeTax_Domain.csproj": {
+                "projectPath": "C:\\Users\\lugan\\OneDrive\\Área de Trabalho\\IncomeTax_Domain\\IncomeTax_Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

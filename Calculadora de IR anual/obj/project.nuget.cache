@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "LUACiQMfRcjlBciTQzMixnn5GTkWGaGdFqVGVonYF7PMpaGnS4yGEHOlyiLIkvK/Ke0RLXkkWwvfaZVE/4CY+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lugan\\OneDrive\\Área de Trabalho\\Calculadora de IR anual\\IncomeTax_Calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lugan\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\lugan\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\lugan\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

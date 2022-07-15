@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>Calculadora_de_IR_anual</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="6.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\IncomeTax_Domain\IncomeTax_Domain.csproj" />
+    <ProjectReference Include="..\IncomeTax_Presentation\IncomeTax_Presentation.csproj" />
+    <ProjectReference Include="..\IncomeTax_Services\IncomeTax_Services.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,17 @@
+C:\Users\lugan\OneDrive\Área de Trabalho\IncomeTax_Presentation\bin\Debug\net6.0\IncomeTax_Presentation.deps.json
+C:\Users\lugan\OneDrive\Área de Trabalho\IncomeTax_Presentation\bin\Debug\net6.0\IncomeTax_Presentation.dll
+C:\Users\lugan\OneDrive\Área de Trabalho\IncomeTax_Presentation\bin\Debug\net6.0\IncomeTax_Presentation.pdb
+C:\Users\lugan\OneDrive\Área de Trabalho\IncomeTax_Presentation\bin\Debug\net6.0\IncomeTax_Domain.dll
+C:\Users\lugan\OneDrive\Área de Trabalho\IncomeTax_Presentation\bin\Debug\net6.0\IncomeTax_Services.dll
+C:\Users\lugan\OneDrive\Área de Trabalho\IncomeTax_Presentation\bin\Debug\net6.0\IncomeTax_Services.pdb
+C:\Users\lugan\OneDrive\Área de Trabalho\IncomeTax_Presentation\bin\Debug\net6.0\IncomeTax_Domain.pdb
+C:\Users\lugan\OneDrive\Área de Trabalho\IncomeTax_Presentation\obj\Debug\net6.0\IncomeTax_Presentation.csproj.AssemblyReference.cache
+C:\Users\lugan\OneDrive\Área de Trabalho\IncomeTax_Presentation\obj\Debug\net6.0\IncomeTax_Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lugan\OneDrive\Área de Trabalho\IncomeTax_Presentation\obj\Debug\net6.0\IncomeTax_Presentation.AssemblyInfoInputs.cache
+C:\Users\lugan\OneDrive\Área de Trabalho\IncomeTax_Presentation\obj\Debug\net6.0\IncomeTax_Presentation.AssemblyInfo.cs
+C:\Users\lugan\OneDrive\Área de Trabalho\IncomeTax_Presentation\obj\Debug\net6.0\IncomeTax_Presentation.csproj.CoreCompileInputs.cache
+C:\Users\lugan\OneDrive\Área de Trabalho\IncomeTax_Presentation\obj\Debug\net6.0\IncomeTax_Presentation.csproj.CopyComplete
+C:\Users\lugan\OneDrive\Área de Trabalho\IncomeTax_Presentation\obj\Debug\net6.0\IncomeTax_Presentation.dll
+C:\Users\lugan\OneDrive\Área de Trabalho\IncomeTax_Presentation\obj\Debug\net6.0\refint\IncomeTax_Presentation.dll
+C:\Users\lugan\OneDrive\Área de Trabalho\IncomeTax_Presentation\obj\Debug\net6.0\IncomeTax_Presentation.pdb
+C:\Users\lugan\OneDrive\Área de Trabalho\IncomeTax_Presentation\obj\Debug\net6.0\ref\IncomeTax_Presentation.dll
